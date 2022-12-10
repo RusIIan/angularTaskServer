@@ -1,0 +1,1 @@
+{"ast":null,"code":"var CountService = /** @class */function () {\n  function CountService() {}\n  CountService.prototype.CountsService = function (count) {\n    count++;\n  };\n  return CountService;\n}();\nexport { CountService };","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}
